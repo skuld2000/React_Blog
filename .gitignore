@@ -96,9 +96,8 @@ public/
 
 # TernJS port file
 .tern-port
-
-# Mac system files
-.DS_Store
-
-# Visual Studio Code
-.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
